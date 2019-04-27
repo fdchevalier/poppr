@@ -23,6 +23,7 @@ MISC
 * genlight objects no longer get passed to `missingno()` in `filter_stats()`
 * `filter_stats()` now returns invisibly when plot = TRUE; see 
   https://github.com/grunwaldlab/poppr/issues/87 for details.
+* nodes with single populations displayed as circles instead of pies
 
 BUG FIX
 ------------
